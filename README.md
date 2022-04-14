@@ -6,3 +6,14 @@
 ## 🔧 Технологии
 
 ![Технологии](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,github,vscode,ps,figma&theme=dark&perline=5)
+
+## 🖥️ Статистика GitHub
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=StMelik&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Stanislav Meleshchik github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StMelik&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Stanislav Meleshchik github stats" />
+</div>
+
+<div align="center">
+    <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=StMelik&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Stanislav Meleshchik github stats" />
+</div>
