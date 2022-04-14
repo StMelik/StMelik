@@ -21,3 +21,5 @@
 ## 🔥 Codewars
 
 [![codewars](https://www.codewars.com/users/StMelik/badges/large)](https://www.codewars.com/users/StMelik)
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=©%202022%20Станислав%20Мелещик&fontColor=0d11117&fontSize=18&fontAlignY=87&fontAlign=16" />
