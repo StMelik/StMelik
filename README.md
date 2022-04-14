@@ -17,3 +17,7 @@
 <div align="center">
     <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=StMelik&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Stanislav Meleshchik github stats" />
 </div>
+
+## 🔥 Codewars
+
+[![codewars](https://www.codewars.com/users/StMelik/badges/large)](https://www.codewars.com/users/StMelik)
