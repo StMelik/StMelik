@@ -22,4 +22,18 @@
 
 [![codewars](https://www.codewars.com/users/StMelik/badges/large)](https://www.codewars.com/users/StMelik)
 
+## 💬 Мои контакты
+
+<!-- [![E-mail: st.mele.a@yandex.ru](./icon/email-icon.png)](mailto:st.mele.a@yandex.ru)
+
+[![Telegram: @StMelik](./icon/telegram-icon.png)](https://t.me/StMelik) -->
+
+  <a href="mailto:st.mele.a@yandex.ru">
+    <img src="./icon/email-icon.png" alt="E-mail">
+  </a>
+
+  <a href="https://t.me/StMelik">
+    <img src="./icon/telegram-icon.png" alt="Telegram">
+  </a>
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=©%202022%20Станислав%20Мелещик&fontColor=0d11117&fontSize=18&fontAlignY=87&fontAlign=16" />
