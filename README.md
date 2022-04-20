@@ -36,4 +36,8 @@
     <img src="./icon/telegram-icon.png" alt="Telegram">
   </a>
 
+## 🏃 Моя активность
+
+<img align="center" src="https://raw.githubusercontent.com/StMelik/StMelik/output/github-contribution-grid-snake.svg" />
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=©%202022%20Станислав%20Мелещик&fontColor=0d11117&fontSize=18&fontAlignY=87&fontAlign=16" />
