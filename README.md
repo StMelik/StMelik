@@ -22,7 +22,7 @@
 
 [![codewars](https://www.codewars.com/users/StMelik/badges/large)](https://www.codewars.com/users/StMelik)
 
-## 💬 Мои контакты
+## 💬 Контакты
 
 <!-- [![E-mail: st.mele.a@yandex.ru](./icon/email-icon.png)](mailto:st.mele.a@yandex.ru)
 
@@ -36,7 +36,7 @@
     <img src="./icon/telegram-icon.png" alt="Telegram">
   </a>
 
-## 🏃 Моя активность
+## 🏃 Активность
 
 <img align="center" src="https://raw.githubusercontent.com/StMelik/StMelik/output/github-contribution-grid-snake.svg" />
 
