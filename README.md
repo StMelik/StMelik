@@ -5,7 +5,7 @@
 
 ## 🔧 Технологии
 
-![Технологии](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,github,vscode,ps,figma&theme=dark&perline=5)
+![Технологии](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,redux,github,vscode,ps,figma&theme=dark&perline=6)
 
 ## 🖥️ Статистика GitHub
 
